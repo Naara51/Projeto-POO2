@@ -3,7 +3,9 @@ Este repositório foi criado a fim de desenvolver o sistema de eventos sugerido 
 Usuario.java (Classe abstrata com nome, e-mail e senha) - Augusto
       Participante.java (extends Usuario)
       Organizador.java (extends Usuario)
+      
 Evento.java - Augusto
+
 Atividade.java - Israell
 Inscricao.java - Rebeca
 Presenca.java - Rebeca
