@@ -10,6 +10,6 @@ Atividade.java - Israell;
 
 Inscricao.java - Rebeca;
 
-Presenca.java - Rebeca;
+Frequencia.java - Rebeca;
 
 Avaliacao.java - Igor.
